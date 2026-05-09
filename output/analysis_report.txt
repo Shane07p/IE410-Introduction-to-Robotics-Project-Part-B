@@ -1,0 +1,45 @@
+============================================================
+  THEO JANSEN MECHANISM - ANALYSIS REPORT
+  12-Link Modified Jansen Gait Trainer
+  (Sulzer et al. 2018 / Jadav et al. 2024)
+============================================================
+
+1. LINK LENGTHS (cm)
+----------------------------------------
+     L1 =    11.29 << ADJUSTABLE
+     L2 =    45.00
+     L3 =    36.00
+     L4 =    32.93 << ADJUSTABLE
+     L5 =    48.50
+     L6 =    41.50
+     L7 =    60.50
+     L8 =    41.78 << ADJUSTABLE
+     L9 =    42.00
+    L10 =    43.00
+    L11 =    26.50
+    L12 =    54.50
+
+2. GRASHOF CONDITION
+----------------------------------------
+   Grashof condition SATISFIED: s + l = 11.29 + 45.00 = 56.29 <= p + q = 32.93 + 36.00 = 68.93.
+The shortest link (11.29 cm) can fully rotate.
+
+3. GAIT METRICS
+----------------------------------------
+   Stride length (X-span): 47.95 cm
+   Step height (Y-span):   18.97 cm
+   Stride/height ratio:    2.53
+   Enclosed area (AUCT):   294.70 cm2
+   Foot X range:           [24.79, 72.74]
+   Foot Y range:           [-67.84, -48.87]
+
+4. STANCE / SWING PHASE
+----------------------------------------
+   Duty factor:            46.0%
+   Stance frames:          331
+   Swing frames:           389
+   (Normal human gait: ~60% stance, ~40% swing)
+
+============================================================
+  END OF REPORT
+============================================================
