@@ -10,6 +10,7 @@ scripts = [
     "scripts/s03_static_schematic.py",
     "scripts/s05_stance_swing_analysis.py",
     "scripts/s06_sensitivity_analysis.py",
+    "scripts/s07_l4_optimization.py",
     "scripts/s10_full_report.py",
 ]
 
